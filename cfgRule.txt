@@ -1,0 +1,18 @@
+K -> S P Pel O | S P Pel Ket | S P Ket | S P O Ket | S P O Pel | S P O | S P Ket | S P
+S -> NP
+P -> VP
+O -> NP
+Pel -> NP | VP
+Ket -> NP | VP | NumP
+NP -> Noun | PropNoun | Pronoun | NP Noun | NP PropNoun | NP Pronoun | NP Verb | Adv NP | Noun Adv Adv | PP | Adj NP | NP Adj
+VP -> Verb | Verb NP | Prep VP | VP Prep | AdjP VP | Verb Adj | Adv Verb
+PP -> Prep NP | Prep Adj
+AdjP -> Adj | Adv Adj
+NumP -> Prep Num NP | Num | Num Noun
+Noun -> aji | semengan | tugas | gendingan | kamarnyane | pakaryan | tugas | biang | sepatu | semeton | makesami | perusahaan | tegal | beburon | jinah | semester | bulane | benjang | penyadane | daftar | pakaryan | ajah-ajahan | nasi | goreng | carang | kayu | pabalihan | horor | kuaca | boneka | trewelu | matematika | bola | benjang | gajih | kantornyane | pangenah | agra | giri | korban | makesami | genah | parindikan | tu | biang | ajengan | bekel | adi | okan | dane | istri | taban | ibu | guru | sisiane | bapak | kepala | sekolah | pawarah-warah | aji | dumunan | ratu | peranda | sarenan | baler | pak | camat | wantuan | krama | dayu | mangkin | ica 
+PropNoun -> nina | jeno | dito | jeno | gita | jeno | sinta | andi | rani | rina
+Pronoun -> iraga | tiang | ragane | punika | nika | idane | ida | ipun 
+Adv -> kari | sane | jagi | patut | wikan | prasida | dados | nenten | durung | sampun | tur | kantun
+Adj -> baru | singkat | keras | tua | hangat | baik | lama | miskin | santai | dekat | rapi | rapat
+Prep -> ring | ka | ke | para | majeng
+Verb -> mekarya | ngaryaning | mirengang | ngemolihang | muput | kaatur | numbasang | adung | lunga | malajah | naurin | nyatetin | mandakin | nyakan | ngetep | mabalih | numbas | megending | arep | kelas | maduwe | muput | karya | nyumu | palalianan | ngemolihang | kaevakuasi | ngardiang | ngaksi | rabin | mobot | makolem | nunas | usan | ngicenin | budal | micayang | maputra
